@@ -5,3 +5,5 @@
 null
 *.iml
 /jSensors.iml
+/build/
+/.gradle/
